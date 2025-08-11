@@ -1,0 +1,3 @@
+/home/oussama/Desktop/stm32f401/build/CMakeFiles/MySTM32F401Project.elf.dir
+/home/oussama/Desktop/stm32f401/build/CMakeFiles/edit_cache.dir
+/home/oussama/Desktop/stm32f401/build/CMakeFiles/rebuild_cache.dir
